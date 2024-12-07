@@ -1,0 +1,31 @@
+.container-fluid li {
+    background-color: #121212;
+    align-content: center;
+    border-bottom: solid red 5px;
+}
+
+.container-fluid a {
+    color: white;
+    margin-inline: 10px ;
+}
+
+.navbar-nav {
+    background-color: red;
+}
+
+#navbarNav {
+    justify-content: center;
+    font-size: 22px;
+    text-transform: uppercase;
+    margin: 0;
+}
+
+#navbarNav :hover {
+    color: red;
+}
+
+img {
+height: 60px;
+width: 60px;
+margin-inline: 20px;
+}
